@@ -9,11 +9,6 @@ Task 2
 Given a one-dimensional array of numerical values, counting n elements. 
 Put the sum of array elements and the number of positive elements in first and second place.
 
-| укр текст  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ## Постановка завдання
 
 Завдання 1
@@ -36,6 +31,12 @@ Put the sum of array elements and the number of positive elements in first and s
 #Розробка тест-кейсів
 
 Тест-кейси для першої програми:
+
+| укр текст  | Second Header | | 
+| ------------- | ------------- | ____|
+| Content Cell  | Content Cell  | |
+| Content Cell  | Content Cell  | |
+
 
 | Номер | Мета | Вхідні дані | Очікуваний результат |
 | ____________ | ___________ | ____________________ |
