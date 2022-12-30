@@ -32,14 +32,14 @@ Put the sum of array elements and the number of positive elements in first and s
 
 Тест-кейси для першої програми:
 
-| укр текст  | Second Header | ccervrevrv | 
-| ------------- | ------------- | ____ |
-| Content Cell  | Content Cell  | vrvrvwev |
-| Content Cell  | Content Cell  | vrwvvrvw | 
+| укр текст  | Second Header | | 
+| ------------- | ------------- | ____|
+| Content Cell  | Content Cell  | |
+| Content Cell  | Content Cell  | |
 
 
 | Номер | Мета | Вхідні дані | Очікуваний результат |
-| ____________ | ___________ | ____________________ |
+| ------ | ----------- | --------- | --------------- |
 | 1 | Перевірити роботу програми при коректних значеннях. | testing is wonderful\n5\n | testing is*** wonderful |
 | 2 | Перевірити роботу програми при відсутності введення першого значення | \n4\n | Повідомлення про помилку |
 | 3 | Перевірити роботу програми при коректних значеннях у випадку введення літери замість числа | testing is not wonderful\nt\n |  Повідомлення про помилку|
