@@ -32,10 +32,10 @@ Put the sum of array elements and the number of positive elements in first and s
 
 Тест-кейси для першої програми:
 
-| укр текст  | Second Header | | 
-| ------------- | ------------- | ____|
-| Content Cell  | Content Cell  | |
-| Content Cell  | Content Cell  | |
+| укр текст  | Second Header | ccervrevrv | 
+| ------------- | ------------- | ____ |
+| Content Cell  | Content Cell  | vrvrvwev |
+| Content Cell  | Content Cell  | vrwvvrvw | 
 
 
 | Номер | Мета | Вхідні дані | Очікуваний результат |
