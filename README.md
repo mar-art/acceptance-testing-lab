@@ -1,7 +1,7 @@
 # acceptance-testing-lab
 Acceptance testing on Python
 
-## Мета роботи
+## The goal of the work
 
 Завдання 1
 Доповнити символом '*' слова, що мають довжину менше заданої (максимальної) до максимальної.
