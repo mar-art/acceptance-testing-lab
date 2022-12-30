@@ -9,7 +9,7 @@ Task 2
 Given a one-dimensional array of numerical values, counting n elements. 
 Put the sum of array elements and the number of positive elements in first and second place.
 
-| First Header  | Second Header |
+| укр текст  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
