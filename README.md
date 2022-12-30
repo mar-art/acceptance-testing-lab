@@ -1,14 +1,15 @@
 # acceptance-testing-lab
 Acceptance testing on Python
 
-## The goal of the work
+# The goal of the work
 
-Завдання 1
-Доповнити символом '*' слова, що мають довжину менше заданої (максимальної) до максимальної.
-Завдання 2
-Дано одновимірний масив числових значень, що нараховує n елементів. Суму елементів масиву і кількість додатних елементів поставити на перше і друге місце.
+Task 1
+Add the symbol '*' to words that have a length less than the specified (maximum) to the maximum.
+Task 2
+Given a one-dimensional array of numerical values, counting n elements. 
+Put the sum of array elements and the number of positive elements in first and second place.
 
-##Постановка завдання
+## Постановка завдання
 
 Завдання 1
 Программа повинна приймати з консолі рядок слів та числове значення максимальної довжини. 
@@ -20,7 +21,7 @@ Acceptance testing on Python
 Ставити значення на перше та друге місце в масиві відповідно. Повертати новий масив.
 
 
-##Основна частина
+## Основна частина
 
 Функціонал розроблюваних програм буде відповідати вимогам, що визначені при постановці завдання.
 Для виконання приймального тестування скористуємося модулями unittest та subprocess.
